@@ -1,4 +1,4 @@
-const CACHE = "vereinsraum-v1";
+const CACHE = "vereinsraum-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
