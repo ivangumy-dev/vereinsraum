@@ -1,0 +1,15 @@
+VEREINSRAUM WEB-APP
+
+Direkt starten:
+1. ZIP-Datei entpacken.
+2. index.html öffnen.
+
+Für GitHub Pages:
+Alle Dateien gemeinsam in das Hauptverzeichnis des Repositorys laden.
+Die App startet automatisch über index.html.
+
+Enthaltene Versionen:
+- index.html = automatische Startversion
+- Vereinsraum_Desktop.html
+- Vereinsraum_Mobile.html
+- Vereinsraum_Panel.html
