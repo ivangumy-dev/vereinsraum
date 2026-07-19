@@ -1,0 +1,9 @@
+services:
+  vereinsraum:
+    build: .
+    container_name: vereinsraum
+    restart: unless-stopped
+    ports:
+      - "8420:3000"
+    volumes:
+      - ./data:/app/data
